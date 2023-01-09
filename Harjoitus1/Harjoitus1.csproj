@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB10974B-AF96-4FF9-8DBA-35ADF3AFE819}</ProjectGuid>
+    <ProjectGuid>{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>olio_ohjelmointi</RootNamespace>
-    <AssemblyName>olio-ohjelmointi</AssemblyName>
+    <RootNamespace>Harjoitus1</RootNamespace>
+    <AssemblyName>Harjoitus1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hrjoitus1.cs" />
-    <Compile Include="koira.cs" />
+    <Compile Include="ajoneuvo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

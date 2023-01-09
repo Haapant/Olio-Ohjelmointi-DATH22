@@ -1,0 +1,8 @@
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\obj\Debug\olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\obj\Debug\olio-ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\obj\Debug\olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\bin\Debug\olio-ohjelmointi.exe.config
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\bin\Debug\olio-ohjelmointi.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\bin\Debug\olio-ohjelmointi.pdb
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\obj\Debug\olio-ohjelmointi.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\obj\Debug\olio-ohjelmointi.pdb

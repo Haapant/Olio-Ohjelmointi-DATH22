@@ -1,0 +1,8 @@
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\bin\Debug\Harjoitus1.exe.config
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\bin\Debug\Harjoitus1.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\bin\Debug\Harjoitus1.pdb
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\obj\Debug\Harjoitus1.csproj.AssemblyReference.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\obj\Debug\Harjoitus1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\obj\Debug\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\obj\Debug\Harjoitus1.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Harjoitus1\obj\Debug\Harjoitus1.pdb

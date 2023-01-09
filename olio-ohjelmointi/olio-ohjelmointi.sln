@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio-ohjelmointi", "olio-ohjelmointi.csproj", "{AB10974B-AF96-4FF9-8DBA-35ADF3AFE819}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "..\Harjoitus1\Harjoitus1.csproj", "{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AB10974B-AF96-4FF9-8DBA-35ADF3AFE819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB10974B-AF96-4FF9-8DBA-35ADF3AFE819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB10974B-AF96-4FF9-8DBA-35ADF3AFE819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
