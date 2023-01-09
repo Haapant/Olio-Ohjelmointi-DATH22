@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio-ohjelmointi", "olio-oh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "..\Harjoitus1\Harjoitus1.csproj", "{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus2", "..\harjoitus2\harjoitus2.csproj", "{B43DA56C-3ACC-46D5-98B1-C47741203336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F5409E-B9A3-4C43-AB28-1CD9243AF81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43DA56C-3ACC-46D5-98B1-C47741203336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43DA56C-3ACC-46D5-98B1-C47741203336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43DA56C-3ACC-46D5-98B1-C47741203336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43DA56C-3ACC-46D5-98B1-C47741203336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
