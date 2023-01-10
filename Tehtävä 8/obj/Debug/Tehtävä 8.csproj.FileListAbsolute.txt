@@ -1,0 +1,8 @@
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\bin\Debug\Tehtävä 8.exe.config
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\bin\Debug\Tehtävä 8.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\bin\Debug\Tehtävä 8.pdb
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\obj\Debug\Tehtävä 8.csproj.AssemblyReference.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\obj\Debug\Tehtävä 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\obj\Debug\Tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\obj\Debug\Tehtävä 8.exe
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 8\obj\Debug\Tehtävä 8.pdb
