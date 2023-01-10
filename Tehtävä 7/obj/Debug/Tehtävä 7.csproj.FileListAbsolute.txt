@@ -1,0 +1,3 @@
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 7\obj\Debug\Tehtävä 7.csproj.AssemblyReference.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 7\obj\Debug\Tehtävä 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\sampo.haapala\source\repos\Haapant\Olio-Ohjelmointi-DATH22\Tehtävä 7\obj\Debug\Tehtävä 7.csproj.CoreCompileInputs.cache
