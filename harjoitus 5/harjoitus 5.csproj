@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{726F5C89-624B-42A9-BD03-784A700B0380}</ProjectGuid>
+    <ProjectGuid>{D3D30931-48C4-4A34-A31C-7F079EF93E48}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>harjoitus_4</RootNamespace>
-    <AssemblyName>harjoitus 4</AssemblyName>
+    <RootNamespace>harjoitus_5</RootNamespace>
+    <AssemblyName>harjoitus 5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Laskin.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="kappale.cs" />
-    <Compile Include="Albumi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="staattinen_luokkacs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
