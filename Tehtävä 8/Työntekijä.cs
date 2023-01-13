@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8
+namespace Tehtävä_8
 {
-    internal class Employee : Person
+    internal class Työntekijä : henkilö
     {
         public double WeeklyHours { get; set; }
-        public Employee(string name, decimal salary, double weeklyHours)
+        public Työntekijä(string name, decimal salary, double weeklyHours)
             : base(name, "Employee", salary)
         {
             this.WeeklyHours = weeklyHours;

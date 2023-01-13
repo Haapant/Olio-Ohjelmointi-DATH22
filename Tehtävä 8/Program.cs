@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _8;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace Tehtävä_8
     {
         static void Main(string[] args)
         {
+            Työntekijä työntekijä = new Työntekijä("pertti", 1000,5);
+            Pomo Pomo = new Pomo("mikko", 200, "bmw");
         }
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8
+namespace Tehtävä_8
 {
-    abstract class Person
+    abstract class henkilö
     {
         public string Name { get; set; }
         public string Job { get; set; }
