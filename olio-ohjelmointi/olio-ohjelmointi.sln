@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 8", "..\Tehtävä
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus11", "..\harjoitus11\harjoitus11.csproj", "{BB73F98B-0B09-4065-8209-831177BF9C44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{C3D025C0-A078-4719-B0DD-1EB204AE38D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\WpfApp1\WpfApp1.csproj", "{3B6DAF28-7941-41B3-9880-FBE899A848B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{BB73F98B-0B09-4065-8209-831177BF9C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB73F98B-0B09-4065-8209-831177BF9C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB73F98B-0B09-4065-8209-831177BF9C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D025C0-A078-4719-B0DD-1EB204AE38D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D025C0-A078-4719-B0DD-1EB204AE38D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D025C0-A078-4719-B0DD-1EB204AE38D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D025C0-A078-4719-B0DD-1EB204AE38D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6DAF28-7941-41B3-9880-FBE899A848B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6DAF28-7941-41B3-9880-FBE899A848B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6DAF28-7941-41B3-9880-FBE899A848B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6DAF28-7941-41B3-9880-FBE899A848B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
